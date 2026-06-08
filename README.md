@@ -1,6 +1,7 @@
 # EEG Seizure Detection — CNN · LSTM · GRU · TCN
 
 Hewlett Packard Enterprise Data Science Institute | University of Houston | Dr. Nouhad Rizk
+
 AI & Data Science Showcase
 
 Khoa Anh Dao · John C Williams · Elias Arellano Campos
