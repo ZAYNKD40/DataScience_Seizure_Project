@@ -1,6 +1,7 @@
 # EEG Seizure Detection — CNN · LSTM · GRU · TCN
 
-Group 3 | COSC 4377: Data Science II | University of Houston | Dr. Nouhad Rizk
+Hewlett Packard Enterprise Data Science Institute | University of Houston | Dr. Nouhad Rizk
+AI & Data Science Showcase
 
 Khoa Anh Dao · John C Williams · Elias Arellano Campos
 
